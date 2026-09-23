@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/michalszymanski-ai/ai-regulation-deadlines/main/schema/deadline.schema.json",
+  "title": "AI regulation obligation",
+  "description": "One obligation from data/deadlines.json (the items array).",
+  "type": "object",
+  "required": ["id", "jurisdiction", "law", "title", "date", "status", "applies_to", "summary", "evidence", "source", "source_label", "url"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable identifier of the obligation" },
+    "jurisdiction": { "type": "string", "description": "EU, Poland, South Korea, or \"US, <State>\"" },
+    "law": { "type": "string", "description": "The law or regulation that creates the obligation" },
+    "title": { "type": "string", "description": "Short name of the obligation" },
+    "date": { "type": "string", "format": "date", "description": "Date the obligation applies (YYYY-MM-DD)" },
+    "status": { "type": "string", "enum": ["in-force", "upcoming", "deferred"] },
+    "applies_to": { "type": "string", "description": "Who the obligation applies to" },
+    "summary": { "type": "string", "description": "What the obligation requires, in plain words" },
+    "evidence": { "type": "string", "description": "The evidence a supervisor or auditor can expect to see" },
+    "source": { "type": "string", "format": "uri", "pattern": "^https://", "description": "URL of the source the row was checked against" },
+    "source_label": { "type": "string", "description": "Name of that source" },
+    "url": { "type": "string", "format": "uri", "description": "Page for this obligation on getdutybound.com" }
+  }
+}

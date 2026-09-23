@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AI regulation deadlines"
+abstract: "Dates, scope and expected evidence for AI-regulation obligations in the EU (AI Act as amended by the Digital Omnibus), Poland, South Korea and US states, each with a source, plus a glossary of the terms they use."
+authors:
+  - name: "Dutybound"
+    website: "https://getdutybound.com"
+url: "https://getdutybound.com/deadlines/"
+repository-code: "https://github.com/michalszymanski-ai/ai-regulation-deadlines"
+license: CC-BY-4.0
+keywords:
+  - EU AI Act
+  - AI regulation
+  - compliance
+  - open data

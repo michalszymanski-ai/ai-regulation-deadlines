@@ -1,0 +1,160 @@
+{
+  "name": "ai-regulation-deadlines",
+  "title": "AI regulation deadlines",
+  "description": "Dates, scope and expected evidence for AI-regulation obligations in the EU (AI Act as amended by the Digital Omnibus), Poland, South Korea and US states, each with a source, plus a glossary of the terms they use.",
+  "homepage": "https://getdutybound.com/deadlines/",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Dutybound",
+      "path": "https://getdutybound.com",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "EU AI Act",
+    "AI regulation",
+    "compliance",
+    "Digital Omnibus",
+    "KRiBSI",
+    "Korea AI Basic Act",
+    "Colorado",
+    "California ADMT",
+    "Texas TRAIGA",
+    "open data"
+  ],
+  "resources": [
+    {
+      "name": "deadlines",
+      "path": "data/deadlines.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Stable identifier of the obligation"
+          },
+          {
+            "name": "jurisdiction",
+            "type": "string",
+            "description": "EU, Poland, South Korea, or \"US, <State>\""
+          },
+          {
+            "name": "law",
+            "type": "string",
+            "description": "The law or regulation that creates the obligation"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Short name of the obligation"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "description": "Date the obligation applies (YYYY-MM-DD)"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "in-force, upcoming or deferred",
+            "constraints": {
+              "enum": [
+                "in-force",
+                "upcoming",
+                "deferred"
+              ]
+            }
+          },
+          {
+            "name": "applies_to",
+            "type": "string",
+            "description": "Who the obligation applies to"
+          },
+          {
+            "name": "summary",
+            "type": "string",
+            "description": "What the obligation requires, in plain words"
+          },
+          {
+            "name": "evidence",
+            "type": "string",
+            "description": "The evidence a supervisor or auditor can expect to see"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "URL of the source the row was checked against"
+          },
+          {
+            "name": "source_label",
+            "type": "string",
+            "description": "Name of that source"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "Page for this obligation on getdutybound.com"
+          }
+        ],
+        "primaryKey": "id"
+      }
+    },
+    {
+      "name": "glossary",
+      "path": "data/glossary.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "Stable identifier of the term"
+          },
+          {
+            "name": "term",
+            "type": "string",
+            "description": "The term"
+          },
+          {
+            "name": "group",
+            "type": "string",
+            "description": "Law or framework the term belongs to"
+          },
+          {
+            "name": "text",
+            "type": "string",
+            "description": "Definition, paraphrased in plain words"
+          },
+          {
+            "name": "ref",
+            "type": "string",
+            "description": "Legal reference (article, section or clause)"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "URL of the source"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "The term on getdutybound.com"
+          }
+        ],
+        "primaryKey": "slug"
+      }
+    }
+  ]
+}
