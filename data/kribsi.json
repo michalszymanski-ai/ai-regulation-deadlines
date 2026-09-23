@@ -1,0 +1,299 @@
+{
+  "title": "KRiBSI log: Poland's AI supervisor",
+  "publisher": "Dutybound",
+  "homepage": "https://getdutybound.com/kribsi/",
+  "licence": "Creative Commons Attribution 4.0 International",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Dutybound, https://getdutybound.com/kribsi/ (CC BY 4.0)",
+  "disclaimer": "Operational information, not legal advice. Check the linked source before relying on a row.",
+  "homepage_pl": "https://getdutybound.com/pl/kribsi/",
+  "updated": "2026-09-23",
+  "act": {
+    "title_pl": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
+    "title_en": "Act of 3 July 2026 on artificial intelligence systems",
+    "citation": "Dz.U. 2026 poz. 1003",
+    "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+    "text_url": "https://eli.gov.pl/api/acts/DU/2026/1003/text/O/D20261003.pdf"
+  },
+  "status": {
+    "en": "Set up by law, not yet operating. The Sejm appointed the chair on 18 September 2026 and the Senate's consent is pending. The powers to inspect, fine and issue individual opinions apply from 28 October 2026; the Ministry of Digital Affairs expects the full commission to start work in November.",
+    "pl": "Powołana ustawą, jeszcze nie działa. Sejm wybrał przewodniczącą 18 września 2026 r., czeka na zgodę Senatu. Uprawnienia do kontroli, kar i opinii indywidualnych obowiązują od 28 października 2026 r.; Ministerstwo Cyfryzacji zakłada, że pełna komisja zacznie pracę w listopadzie."
+  },
+  "facts": [
+    {
+      "id": "what",
+      "en": {
+        "label": "What it is",
+        "text": "Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji (Commission for the Development and Safety of Artificial Intelligence) supervises the market for AI systems and general-purpose AI models in Poland under the EU AI Act. The substantive duties come from the EU regulation; the act sets up the supervisor and its procedures."
+      },
+      "pl": {
+        "label": "Czym jest",
+        "text": "Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji nadzoruje w Polsce rynek systemów AI i modeli AI ogólnego przeznaczenia na podstawie AI Act. Obowiązki merytoryczne wynikają z rozporządzenia unijnego; ustawa tworzy organ nadzoru i jego procedury."
+      },
+      "ref": "Art. 1",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "members",
+      "en": {
+        "label": "Who sits on it",
+        "text": "The chair, two deputy chairs and four members designated by the President of UOKiK (competition and consumers), the Polish Financial Supervision Authority (KNF), the National Broadcasting Council (KRRiT) and the President of UKE (electronic communications)."
+      },
+      "pl": {
+        "label": "Skład",
+        "text": "Przewodniczący, dwóch zastępców oraz czterech członków wskazanych przez Prezesa UOKiK, Komisję Nadzoru Finansowego, Krajową Radę Radiofonii i Telewizji oraz Prezesa UKE."
+      },
+      "ref": "Art. 19",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "chair",
+      "en": {
+        "label": "How the chair is chosen",
+        "text": "Appointed and dismissed by the Sejm with the Senate's consent, for five years. The Senate has one month from receiving the Sejm's resolution; if it does not vote in that time, consent is deemed given."
+      },
+      "pl": {
+        "label": "Wybór przewodniczącego",
+        "text": "Powołuje i odwołuje Sejm za zgodą Senatu, na pięcioletnią kadencję. Senat ma miesiąc od otrzymania uchwały Sejmu; brak uchwały w tym terminie oznacza zgodę."
+      },
+      "ref": "Art. 28",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "opinions",
+      "en": {
+        "label": "Individual opinions",
+        "text": "A company subject to the AI Act, or planning activity that will bring it into scope, can ask how the rules apply to its facts or plans. Fee: 150 zł. Deadline: 30 days, 60 for particularly complex cases. If KRiBSI misses the deadline, the opinion is deemed to agree with the position in the request and the fee is refunded. The same company can file a new request only 30 days after its previous one. Opinions are published anonymised in KRiBSI's Public Information Bulletin (BIP)."
+      },
+      "pl": {
+        "label": "Opinie indywidualne",
+        "text": "Podmiot objęty AI Act albo planujący działania, które go nim obejmą, może zapytać, jak przepisy stosują się do jego stanu faktycznego lub zdarzenia przyszłego. Opłata: 150 zł. Termin: 30 dni, 60 w sprawach szczególnie skomplikowanych. Jeśli KRiBSI nie zdąży, opinię uznaje się za zgodną ze stanowiskiem z wniosku, a opłata jest zwracana. Ten sam podmiot może złożyć nowy wniosek po 30 dniach od poprzedniego. Opinie są publikowane po anonimizacji w BIP Komisji."
+      },
+      "ref": "Art. 8–12, 17",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "inspections",
+      "en": {
+        "label": "Inspections",
+        "text": "Opened on KRiBSI's own initiative, at the request of a commission member, or at the request of a national authority protecting fundamental rights (Art. 77 AI Act). An inspection can start no earlier than 7 days after the notice is delivered and is carried out remotely, without both sides being physically present."
+      },
+      "pl": {
+        "label": "Kontrole",
+        "text": "Wszczynane z urzędu, na wniosek członka Komisji albo krajowego organu chroniącego prawa podstawowe (art. 77 AI Act). Kontrola może zacząć się najwcześniej 7 dni po doręczeniu zawiadomienia i jest prowadzona zdalnie, bez jednoczesnej fizycznej obecności stron."
+      },
+      "ref": "Art. 49",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "fines",
+      "en": {
+        "label": "Fines",
+        "text": "KRiBSI applies the AI Act's fine tiers: up to €35M or 7% of worldwide turnover for prohibited practices, €15M or 3% for most other duties, €7.5M or 1% for misleading information to authorities. For SMEs the lower of the two amounts applies."
+      },
+      "pl": {
+        "label": "Kary",
+        "text": "KRiBSI stosuje progi kar z AI Act: do 35 mln euro albo 7% światowego obrotu za zakazane praktyki, 15 mln euro albo 3% za większość pozostałych obowiązków, 7,5 mln euro albo 1% za wprowadzające w błąd informacje dla organów. Dla MŚP liczy się niższa z dwóch kwot."
+      },
+      "ref": "AI Act Art. 99",
+      "source": "https://artificialintelligenceact.eu/article/99/",
+      "source_label": "EU AI Act, Article 99"
+    },
+    {
+      "id": "sandbox",
+      "en": {
+        "label": "Regulatory sandbox",
+        "text": "Participation is free for micro, small and medium-sized enterprises."
+      },
+      "pl": {
+        "label": "Piaskownica regulacyjna",
+        "text": "Udział jest bezpłatny dla mikro, małych i średnich przedsiębiorców."
+      },
+      "ref": "Art. 93",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    },
+    {
+      "id": "publishes",
+      "en": {
+        "label": "What it must publish",
+        "text": "Anonymised individual opinions and explanations in its BIP; notices about changes in the law and in EU guidance; by 31 March each year, information with examples of good practice. It also keeps a register of complaints."
+      },
+      "pl": {
+        "label": "Co musi publikować",
+        "text": "W BIP: zanonimizowane opinie indywidualne i wyjaśnienia, komunikaty o zmianach stanu prawnego i wytycznych UE, a do 31 marca każdego roku informację z przykładami dobrych praktyk. Prowadzi też rejestr skarg."
+      },
+      "ref": "Art. 6, 17",
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003"
+    }
+  ],
+  "log": [
+    {
+      "date": "2026-07-03",
+      "state": "done",
+      "kind": "law",
+      "en": {
+        "title": "Act on AI systems adopted",
+        "text": "The Act of 3 July 2026 on artificial intelligence systems creates KRiBSI."
+      },
+      "pl": {
+        "title": "Uchwalona ustawa o systemach AI",
+        "text": "Ustawa z 3 lipca 2026 r. o systemach sztucznej inteligencji tworzy KRiBSI."
+      },
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "ISAP, Dz.U. 2026 poz. 1003"
+    },
+    {
+      "date": "2026-07-27",
+      "state": "done",
+      "kind": "law",
+      "en": {
+        "title": "Published in the Journal of Laws",
+        "text": "Dz.U. 2026 poz. 1003."
+      },
+      "pl": {
+        "title": "Publikacja w Dzienniku Ustaw",
+        "text": "Dz.U. 2026 poz. 1003."
+      },
+      "source": "https://eli.gov.pl/eli/DU/2026/1003/ogl/pol",
+      "source_label": "ELI, Dz.U. 2026 poz. 1003"
+    },
+    {
+      "date": "2026-08-11",
+      "state": "done",
+      "kind": "law",
+      "en": {
+        "title": "Main provisions in force",
+        "text": "14 days after publication (Art. 127). The provisions on opinions, inspections and fines follow on 28 October."
+      },
+      "pl": {
+        "title": "Wchodzi w życie główna część ustawy",
+        "text": "14 dni po ogłoszeniu (art. 127). Przepisy o opiniach, kontrolach i karach od 28 października."
+      },
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003, Art. 127"
+    },
+    {
+      "date": "2026-09-02",
+      "state": "done",
+      "kind": "report",
+      "en": {
+        "title": "Ministry expects the commission to start in November",
+        "text": "According to the Ministry of Digital Affairs, as reported: chair appointed in October, full commission operating in November."
+      },
+      "pl": {
+        "title": "Ministerstwo: komisja ruszy w listopadzie",
+        "text": "Według Ministerstwa Cyfryzacji, jak podaje serwis: przewodniczący w październiku, pełna komisja od listopada."
+      },
+      "source": "https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/",
+      "source_label": "Digital HR, 2 Sep 2026"
+    },
+    {
+      "date": "2026-09-18",
+      "state": "done",
+      "kind": "appointment",
+      "en": {
+        "title": "Sejm appoints Pamela Krzypkowska as chair",
+        "text": "271 votes for, 24 against, 140 abstentions. She was director of the Department of Research and Innovation at the Ministry of Digital Affairs. The Senate's consent is still required."
+      },
+      "pl": {
+        "title": "Sejm wybiera Pamelę Krzypkowską na przewodniczącą",
+        "text": "271 głosów za, 24 przeciw, 140 wstrzymujących się. Wcześniej dyrektorka Departamentu Badań i Innowacji w Ministerstwie Cyfryzacji. Potrzebna jeszcze zgoda Senatu."
+      },
+      "source": "https://www.rp.pl/prawo-w-polsce/art45159621-sejm-powolal-pamele-krzypkowska-na-szefowa-komisji-rozwoju-i-bezpieczenstwa-ai",
+      "source_label": "Rzeczpospolita, 18 Sep 2026"
+    },
+    {
+      "date": null,
+      "state": "pending",
+      "kind": "appointment",
+      "window_en": "about a month after the Sejm vote (around 20 October)",
+      "window_pl": "ok. miesiąc po głosowaniu w Sejmie (ok. 20 października)",
+      "en": {
+        "title": "Senate decides on the chair",
+        "text": "One month from receiving the Sejm's resolution; no vote in that time counts as consent (Art. 28)."
+      },
+      "pl": {
+        "title": "Senat decyduje o przewodniczącej",
+        "text": "Miesiąc od otrzymania uchwały Sejmu; brak uchwały w tym terminie oznacza zgodę (art. 28)."
+      },
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003, Art. 28"
+    },
+    {
+      "date": "2026-10-28",
+      "state": "upcoming",
+      "kind": "law",
+      "en": {
+        "title": "Opinions, inspections, fines and sandboxes apply",
+        "text": "Art. 8–18 and chapters 3–5, 8 and 9 take effect three months after publication (Art. 127)."
+      },
+      "pl": {
+        "title": "Obowiązują opinie, kontrole, kary i piaskownice",
+        "text": "Art. 8–18 oraz rozdziały 3–5, 8 i 9 wchodzą w życie po trzech miesiącach od ogłoszenia (art. 127)."
+      },
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003, Art. 127"
+    },
+    {
+      "date": null,
+      "state": "expected",
+      "kind": "report",
+      "window_en": "November 2026",
+      "window_pl": "listopad 2026",
+      "en": {
+        "title": "Full commission expected to start work",
+        "text": "Ministry projection; deputies and the four members from UOKiK, KNF, KRRiT and UKE still to be named."
+      },
+      "pl": {
+        "title": "Pełna komisja ma zacząć pracę",
+        "text": "Prognoza ministerstwa; zastępcy i czterej członkowie z UOKiK, KNF, KRRiT i UKE jeszcze niewskazani."
+      },
+      "source": "https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/",
+      "source_label": "Digital HR, 2 Sep 2026"
+    },
+    {
+      "date": "2027-03-31",
+      "state": "expected",
+      "kind": "publication",
+      "en": {
+        "title": "First annual good-practice information due",
+        "text": "KRiBSI must publish examples of good practice in its BIP by 31 March each year (Art. 6)."
+      },
+      "pl": {
+        "title": "Pierwsza coroczna informacja o dobrych praktykach",
+        "text": "KRiBSI publikuje w BIP przykłady dobrych praktyk do 31 marca każdego roku (art. 6)."
+      },
+      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
+      "source_label": "Dz.U. 2026 poz. 1003, Art. 6"
+    }
+  ],
+  "watch": [
+    {
+      "en": "KRiBSI's page in the Public Information Bulletin (BIP): not published as of 23 September 2026. Opinions and explanations will appear there.",
+      "pl": "Strona Komisji w Biuletynie Informacji Publicznej: na 23 września 2026 jeszcze jej nie ma. Tam pojawią się opinie i wyjaśnienia."
+    },
+    {
+      "en": "The Senate's resolution on the chair.",
+      "pl": "Uchwała Senatu w sprawie przewodniczącej."
+    },
+    {
+      "en": "The two deputy chairs and the four members from UOKiK, KNF, KRRiT and UKE.",
+      "pl": "Dwóch zastępców i czterech członków z UOKiK, KNF, KRRiT i UKE."
+    },
+    {
+      "en": "The first individual opinions after 28 October, and the first sandbox call.",
+      "pl": "Pierwsze opinie indywidualne po 28 października i pierwszy nabór do piaskownicy."
+    },
+    {
+      "en": "The first inspections and their subjects.",
+      "pl": "Pierwsze kontrole i ich zakres."
+    }
+  ]
+}

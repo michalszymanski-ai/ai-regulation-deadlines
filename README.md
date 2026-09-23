@@ -2,7 +2,7 @@
 
 Open data on when AI-regulation obligations apply, who they apply to and what evidence they call for: the EU AI Act as amended by the Digital Omnibus (Regulation (EU) 2026/1744), Poland's AI Systems Act, South Korea's AI Basic Act, and US state laws in California, Colorado, New York, Texas and Utah. Every row links to the source it was checked against.
 
-<!-- count:deadlines -->19 obligations and <!-- count:glossary -->31 glossary terms, maintained by [Dutybound](https://getdutybound.com/deadlines/) and synced here every day. Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+<!-- count:deadlines -->19 obligations, <!-- count:glossary -->31 glossary terms and a log of KRiBSI, Poland's AI supervisor, maintained by [Dutybound](https://getdutybound.com/deadlines/) and synced here every day. Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## The obligations
 
@@ -30,6 +30,26 @@ Open data on when AI-regulation obligations apply, who they apply to and what ev
 | 2028-08-02 | EU | [High-risk obligations for AI in regulated products (Annex I)](https://getdutybound.com/deadlines/eu-annex-i/) | deferred | [Gibson Dunn, Omnibus agreement](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/) |
 <!-- table:end -->
 
+## KRiBSI, Poland's AI supervisor
+
+A dated log of what KRiBSI (Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji) has done and is expected to do, in English and Polish, each entry with its source; and what it can do, with article references to the Act of 3 July 2026 on artificial intelligence systems (Dz.U. 2026 poz. 1003). Readable at [getdutybound.com/kribsi](https://getdutybound.com/kribsi/) ([po polsku](https://getdutybound.com/pl/kribsi/)).
+
+<!-- kribsi:start -->
+| Date | State | Event | Source |
+|---|---|---|---|
+| 2026-07-03 | done | Act on AI systems adopted | [ISAP, Dz.U. 2026 poz. 1003](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+| 2026-07-27 | done | Published in the Journal of Laws | [ELI, Dz.U. 2026 poz. 1003](https://eli.gov.pl/eli/DU/2026/1003/ogl/pol) |
+| 2026-08-11 | done | Main provisions in force | [Dz.U. 2026 poz. 1003, Art. 127](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+| 2026-09-02 | done | Ministry expects the commission to start in November | [Digital HR, 2 Sep 2026](https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/) |
+| 2026-09-18 | done | Sejm appoints Pamela Krzypkowska as chair | [Rzeczpospolita, 18 Sep 2026](https://www.rp.pl/prawo-w-polsce/art45159621-sejm-powolal-pamele-krzypkowska-na-szefowa-komisji-rozwoju-i-bezpieczenstwa-ai) |
+| about a month after the Sejm vote (around 20 October) | pending | Senate decides on the chair | [Dz.U. 2026 poz. 1003, Art. 28](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+| 2026-10-28 | upcoming | Opinions, inspections, fines and sandboxes apply | [Dz.U. 2026 poz. 1003, Art. 127](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+| November 2026 | expected | Full commission expected to start work | [Digital HR, 2 Sep 2026](https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/) |
+| 2027-03-31 | expected | First annual good-practice information due | [Dz.U. 2026 poz. 1003, Art. 6](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+<!-- kribsi:end -->
+
+`state`: `done`; `upcoming` (fixed date in the law); `expected` (announced or reported plan); `pending` (awaiting a decision).
+
 ## Files
 
 | File | What it is |
@@ -37,6 +57,8 @@ Open data on when AI-regulation obligations apply, who they apply to and what ev
 | [`data/deadlines.csv`](data/deadlines.csv) | One row per obligation (CSV, UTF-8) |
 | [`data/deadlines.json`](data/deadlines.json) | The same, as JSON with licence and attribution fields |
 | [`data/glossary.csv`](data/glossary.csv) / [`.json`](data/glossary.json) | Terms used in these laws, paraphrased, each with its legal reference and source |
+| [`data/kribsi-log.csv`](data/kribsi-log.csv) | KRiBSI log: one row per event, English and Polish, with source |
+| [`data/kribsi.json`](data/kribsi.json) | The log plus KRiBSI's powers with article references, current status and what to watch |
 | [`datapackage.json`](datapackage.json) | [Frictionless Data Package](https://datapackage.org) describing both tables and their fields |
 | [`schema/deadline.schema.json`](schema/deadline.schema.json) | JSON Schema for one obligation |
 

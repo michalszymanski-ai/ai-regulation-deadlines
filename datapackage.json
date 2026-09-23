@@ -1,7 +1,7 @@
 {
   "name": "ai-regulation-deadlines",
   "title": "AI regulation deadlines",
-  "description": "Dates, scope and expected evidence for AI-regulation obligations in the EU (AI Act as amended by the Digital Omnibus), Poland, South Korea and US states, each with a source, plus a glossary of the terms they use.",
+  "description": "Dates, scope and expected evidence for AI-regulation obligations in the EU (AI Act as amended by the Digital Omnibus), Poland, South Korea and US states, each with a source; a glossary of the terms they use; and a sourced log of KRiBSI, Poland's AI supervisor.",
   "homepage": "https://getdutybound.com/deadlines/",
   "licenses": [
     {
@@ -154,6 +154,76 @@
           }
         ],
         "primaryKey": "slug"
+      }
+    },
+    {
+      "name": "kribsi-log",
+      "path": "data/kribsi-log.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "description": "Dated log of what KRiBSI, Poland's AI supervisor, has done and is expected to do, with sources. Its powers, with article references, are in data/kribsi.json.",
+      "schema": {
+        "fields": [
+          {
+            "name": "date",
+            "type": "date",
+            "description": "Date of the event (YYYY-MM-DD); empty when only a window is known"
+          },
+          {
+            "name": "when",
+            "type": "string",
+            "description": "Expected window when there is no date yet"
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "done, upcoming, expected (announced or reported plan) or pending (awaiting a decision)",
+            "constraints": {
+              "enum": [
+                "done",
+                "upcoming",
+                "expected",
+                "pending"
+              ]
+            }
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "law, appointment, report, publication, opinion, inspection, sandbox, fine or guidance"
+          },
+          {
+            "name": "title_en",
+            "type": "string",
+            "description": "Event, in English"
+          },
+          {
+            "name": "text_en",
+            "type": "string",
+            "description": "Details, in English"
+          },
+          {
+            "name": "title_pl",
+            "type": "string",
+            "description": "Event, in Polish"
+          },
+          {
+            "name": "text_pl",
+            "type": "string",
+            "description": "Details, in Polish"
+          },
+          {
+            "name": "source",
+            "type": "string",
+            "description": "URL of the source"
+          },
+          {
+            "name": "source_label",
+            "type": "string",
+            "description": "Name of the source"
+          }
+        ]
       }
     }
   ]
