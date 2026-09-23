@@ -93,20 +93,6 @@
       "url": "https://getdutybound.com/deadlines/kr-act/"
     },
     {
-      "id": "us-ny-raise",
-      "jurisdiction": "US, New York",
-      "law": "RAISE Act (as amended 27 March 2026)",
-      "title": "Frontier-model developer duties",
-      "date": "2026-03-27",
-      "status": "in-force",
-      "applies_to": "Developers of frontier AI models only",
-      "summary": "Transparency and reporting on training, deployment, safety protocols and incidents for frontier developers. Not relevant to companies that only use AI.",
-      "evidence": "Not applicable to deployers.",
-      "source": "https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now",
-      "source_label": "Cooley, state AI laws (April 2026)",
-      "url": "https://getdutybound.com/deadlines/us-ny-raise/"
-    },
-    {
       "id": "kr-high-impact",
       "jurisdiction": "South Korea",
       "law": "AI Basic Act",
@@ -231,6 +217,20 @@
       "source": "https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now",
       "source_label": "Cooley, state AI laws (April 2026)",
       "url": "https://getdutybound.com/deadlines/us-co-sb189/"
+    },
+    {
+      "id": "us-ny-raise",
+      "jurisdiction": "US, New York",
+      "law": "RAISE Act (as amended 27 March 2026)",
+      "title": "Frontier-model developer duties",
+      "date": "2027-01-01",
+      "status": "upcoming",
+      "applies_to": "Developers of frontier AI models only (trained with more than 10^26 operations); stricter duties for large frontier developers with annual revenue above $500 million",
+      "summary": "Transparency and reporting on training, deployment, safety protocols and incidents for frontier developers. The chapter amendment signed 27 March 2026 takes effect on 1 January 2027 and sets civil penalties of up to $1 million for a first violation and $3 million for subsequent violations. Not relevant to companies that only use AI.",
+      "evidence": "Not applicable to deployers.",
+      "source": "https://www.cooley.com/news/insight/2026/2026-03-31-new-yorks-frontier-ai-law-gets-a-california-makeover-with-some-key-differences",
+      "source_label": "Cooley, amended RAISE Act (March 2026)",
+      "url": "https://getdutybound.com/deadlines/us-ny-raise/"
     },
     {
       "id": "kr-grace-end",
