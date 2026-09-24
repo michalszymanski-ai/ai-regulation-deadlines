@@ -38,13 +38,13 @@
       "id": "members",
       "en": {
         "label": "Who sits on it",
-        "text": "The chair, two deputy chairs and four members designated by the President of UOKiK (competition and consumers), the Polish Financial Supervision Authority (KNF), the National Broadcasting Council (KRRiT) and the President of UKE (electronic communications)."
+        "text": "The chair, two deputy chairs and four members designated by the President of UOKiK (competition and consumers), the Polish Financial Supervision Authority (KNF), the National Broadcasting Council (KRRiT) and the President of UKE (electronic communications). The office of the minister for digital affairs provides its administrative support; ministry staff authorised by the commission act independently when carrying out its tasks."
       },
       "pl": {
         "label": "Skład",
-        "text": "Przewodniczący, dwóch zastępców oraz czterech członków wskazanych przez Prezesa UOKiK, Komisję Nadzoru Finansowego, Krajową Radę Radiofonii i Telewizji oraz Prezesa UKE."
+        "text": "Przewodniczący, dwóch zastępców oraz czterech członków wskazanych przez Prezesa UOKiK, Komisję Nadzoru Finansowego, Krajową Radę Radiofonii i Telewizji oraz Prezesa UKE. Obsługę administracyjną zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji; upoważnieni pracownicy ministerstwa wykonując zadania Komisji są niezależni."
       },
-      "ref": "Art. 19",
+      "ref": "Art. 19, 43",
       "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
       "source_label": "Dz.U. 2026 poz. 1003"
     },
@@ -66,13 +66,13 @@
       "id": "opinions",
       "en": {
         "label": "Individual opinions",
-        "text": "A company subject to the AI Act, or planning activity that will bring it into scope, can ask how the rules apply to its facts or plans. Fee: 150 zł. Deadline: 30 days, 60 for particularly complex cases. If KRiBSI misses the deadline, the opinion is deemed to agree with the position in the request and the fee is refunded. The same company can file a new request only 30 days after its previous one. Opinions are published anonymised in KRiBSI's Public Information Bulletin (BIP)."
+        "text": "A company subject to the AI Act, or planning activity that will bring it into scope, can ask how the rules apply to its facts or plans. Fee: 150 zł. Deadline: 30 days, 60 for particularly complex cases. If KRiBSI misses the deadline, the opinion is deemed to agree with the position in the request and the fee is refunded. The same company can file a new request only 30 days after its previous one. The opinion binds KRiBSI and other state bodies for that case, and a later change cannot harm the company that asked. Opinions are published anonymised in KRiBSI's Public Information Bulletin (BIP)."
       },
       "pl": {
         "label": "Opinie indywidualne",
-        "text": "Podmiot objęty AI Act albo planujący działania, które go nim obejmą, może zapytać, jak przepisy stosują się do jego stanu faktycznego lub zdarzenia przyszłego. Opłata: 150 zł. Termin: 30 dni, 60 w sprawach szczególnie skomplikowanych. Jeśli KRiBSI nie zdąży, opinię uznaje się za zgodną ze stanowiskiem z wniosku, a opłata jest zwracana. Ten sam podmiot może złożyć nowy wniosek po 30 dniach od poprzedniego. Opinie są publikowane po anonimizacji w BIP Komisji."
+        "text": "Podmiot objęty AI Act albo planujący działania, które go nim obejmą, może zapytać, jak przepisy stosują się do jego stanu faktycznego lub zdarzenia przyszłego. Opłata: 150 zł. Termin: 30 dni, 60 w sprawach szczególnie skomplikowanych. Jeśli KRiBSI nie zdąży, opinię uznaje się za zgodną ze stanowiskiem z wniosku, a opłata jest zwracana. Ten sam podmiot może złożyć nowy wniosek po 30 dniach od poprzedniego. Opinia wiąże KRiBSI i inne organy państwowe w tej sprawie, a jej późniejsza zmiana nie może szkodzić wnioskodawcy. Opinie są publikowane po anonimizacji w BIP Komisji."
       },
-      "ref": "Art. 8–12, 17",
+      "ref": "Art. 8–13, 15, 17",
       "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
       "source_label": "Dz.U. 2026 poz. 1003"
     },

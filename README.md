@@ -2,7 +2,7 @@
 
 Open data on when AI-regulation obligations apply, who they apply to and what evidence they call for: the EU AI Act as amended by the Digital Omnibus (Regulation (EU) 2026/1744), Poland's AI Systems Act, South Korea's AI Basic Act, and US state laws in California, Colorado, New York, Texas and Utah. Every row links to the source it was checked against.
 
-<!-- count:deadlines -->19 obligations, <!-- count:glossary -->31 glossary terms and a log of KRiBSI, Poland's AI supervisor, maintained by [Dutybound](https://getdutybound.com/deadlines/) and synced here every day. Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+<!-- count:deadlines -->20 obligations, <!-- count:glossary -->31 glossary terms and a log of KRiBSI, Poland's AI supervisor, maintained by [Dutybound](https://getdutybound.com/deadlines/) and synced here every day. Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## The obligations
 
@@ -10,7 +10,8 @@ Open data on when AI-regulation obligations apply, who they apply to and what ev
 | Date | Jurisdiction | Obligation | Status | Source |
 |---|---|---|---|---|
 | 2024-05-01 | US, Utah | [AI disclosure duties in Utah](https://getdutybound.com/deadlines/us-ut-sb149/) | in-force | [Cooley, state AI laws (April 2026)](https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now) |
-| 2025-02-02 | EU | [AI literacy duty, Article 4](https://getdutybound.com/deadlines/eu-art4-literacy/) | in-force | [EU AI Act explorer, Article 4](https://artificialintelligenceact.eu/article/4/) |
+| 2025-02-02 | EU | [AI literacy duty, Article 4](https://getdutybound.com/deadlines/eu-art4-literacy/) | in-force | [European Commission, AI literacy Q&A (updated 27 July 2026)](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) |
+| 2025-02-02 | EU | [Prohibited AI practices, Article 5](https://getdutybound.com/deadlines/eu-art5-prohibited/) | in-force | [EU AI Act explorer, Article 5](https://artificialintelligenceact.eu/article/5/) |
 | 2025-08-02 | EU | [General-purpose AI model obligations](https://getdutybound.com/deadlines/eu-gpai/) | in-force | [ComplianceHub, obligations after the Omnibus](https://compliancehub.wiki/eu-digital-omnibus-ai-act-deadline-deferral-annex-iii-2027/) |
 | 2026-01-01 | US, California | [Generative AI training-data documentation](https://getdutybound.com/deadlines/us-ca-ab2013/) | in-force | [Cooley, state AI laws (April 2026)](https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now) |
 | 2026-01-01 | US, Texas | [TRAIGA in force](https://getdutybound.com/deadlines/us-tx-traiga/) | in-force | [King & Spalding, state AI laws effective 1 Jan 2026](https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption) |
