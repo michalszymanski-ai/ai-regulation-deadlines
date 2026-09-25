@@ -99,11 +99,11 @@ The live copy is also at https://getdutybound.com/deadlines.json, with an Atom f
 
 ## How it is maintained
 
-The data lives on [getdutybound.com](https://getdutybound.com/deadlines/). Each day an agent checks the primary texts, supervisors' pages and law-firm briefings for changes and proposes updates as a pull request. A person reviews every change before it is published, and each change is recorded with its source in the site's changelog. A GitHub Action in this repository ([`sync.yml`](.github/workflows/sync.yml)) copies the published data here every morning and commits only when something changed, so the commit history of `data/` is a record of every change.
+The data lives on [getdutybound.com](https://getdutybound.com/deadlines/). Each day an agent checks the primary texts, supervisors' pages and law-firm briefings for changes and proposes updates as a pull request. A person reviews every change before it is published, and every row carries its source. A GitHub Action in this repository ([`sync.yml`](.github/workflows/sync.yml)) copies the published data here every morning and commits only when something changed, so the commit history of `data/` is a record of every change.
 
 ## Corrections
 
-Found a wrong date, a missing obligation or a better source? [Open an issue](../../issues/new) with the source link, or email hello@getdutybound.com. Corrections are checked against the source and published with a dated changelog entry.
+Found a wrong date, a missing obligation or a better source? [Open an issue](../../issues/new) with the source link, or email hello@getdutybound.com. Corrections are checked against the source and published here; the commit history shows each one with its date.
 
 ## Licence and attribution
 
