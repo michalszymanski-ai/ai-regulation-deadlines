@@ -7,7 +7,7 @@
   "attribution": "Dutybound, https://getdutybound.com/kribsi/ (CC BY 4.0)",
   "disclaimer": "Operational information, not legal advice. Check the linked source before relying on a row.",
   "homepage_pl": "https://getdutybound.com/pl/kribsi/",
-  "updated": "2026-09-23",
+  "updated": "2026-09-25",
   "act": {
     "title_pl": "Ustawa z dnia 3 lipca 2026 r. o systemach sztucznej inteligencji",
     "title_en": "Act of 3 July 2026 on artificial intelligence systems",
@@ -16,8 +16,8 @@
     "text_url": "https://eli.gov.pl/api/acts/DU/2026/1003/text/O/D20261003.pdf"
   },
   "status": {
-    "en": "Set up by law, not yet operating. The Sejm appointed the chair on 18 September 2026 and the Senate's consent is pending. The powers to inspect, fine and issue individual opinions apply from 28 October 2026; the Ministry of Digital Affairs expects the full commission to start work in November.",
-    "pl": "Powołana ustawą, jeszcze nie działa. Sejm wybrał przewodniczącą 18 września 2026 r., czeka na zgodę Senatu. Uprawnienia do kontroli, kar i opinii indywidualnych obowiązują od 28 października 2026 r.; Ministerstwo Cyfryzacji zakłada, że pełna komisja zacznie pracę w listopadzie."
+    "en": "Set up by law, not yet operating. The chair, Pamela Krzypkowska, was appointed by the Sejm on 18 September 2026 with the Senate's consent on 24 September; the deputy chairs and members are not yet appointed. The powers to inspect, fine and issue individual opinions apply from 28 October 2026; the Ministry of Digital Affairs expects the full commission to start work in November.",
+    "pl": "Powołana ustawą, jeszcze nie działa. Przewodniczącą, Pamelę Krzypkowską, Sejm wybrał 18 września 2026 r., a Senat wyraził zgodę 24 września; zastępców i członków jeszcze nie powołano. Uprawnienia do kontroli, kar i opinii indywidualnych obowiązują od 28 października 2026 r.; Ministerstwo Cyfryzacji zakłada, że pełna komisja zacznie pracę w listopadzie."
   },
   "facts": [
     {
@@ -210,21 +210,19 @@
       "source_label": "Rzeczpospolita, 18 Sep 2026"
     },
     {
-      "date": null,
-      "state": "pending",
+      "date": "2026-09-24",
+      "state": "done",
       "kind": "appointment",
-      "window_en": "about a month after the Sejm vote (around 20 October)",
-      "window_pl": "ok. miesiąc po głosowaniu w Sejmie (ok. 20 października)",
       "en": {
-        "title": "Senate decides on the chair",
-        "text": "One month from receiving the Sejm's resolution; no vote in that time counts as consent (Art. 28)."
+        "title": "Senate consents to Pamela Krzypkowska as chair",
+        "text": "The Senate adopted the resolution consenting to the Sejm's appointment: 56 votes for, 2 against, 28 abstentions. This completes the appointment of the chair for a five-year term. Next steps named in press reports: open recruitment for the deputy chairs and building the expert team."
       },
       "pl": {
-        "title": "Senat decyduje o przewodniczącej",
-        "text": "Miesiąc od otrzymania uchwały Sejmu; brak uchwały w tym terminie oznacza zgodę (art. 28)."
+        "title": "Senat zgadza się na Pamelę Krzypkowską jako przewodniczącą",
+        "text": "Senat podjął uchwałę wyrażającą zgodę na wybór dokonany przez Sejm: 56 głosów za, 2 przeciw, 28 wstrzymujących się. To kończy powołanie przewodniczącej na pięcioletnią kadencję. Według doniesień prasowych kolejne kroki to otwarty nabór na zastępców i budowa zespołu ekspertów."
       },
-      "source": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003",
-      "source_label": "Dz.U. 2026 poz. 1003, Art. 28"
+      "source": "https://cyberdefence24.pl/polityka-i-prawo/polska/senat-podjal-uchwale-ws-wyboru-szefa-organu-nadzoru-ai",
+      "source_label": "CyberDefence24, 24 Sep 2026"
     },
     {
       "date": "2026-10-28",
@@ -278,10 +276,6 @@
     {
       "en": "KRiBSI's page in the Public Information Bulletin (BIP): not published as of 23 September 2026. Opinions and explanations will appear there.",
       "pl": "Strona Komisji w Biuletynie Informacji Publicznej: na 23 września 2026 jeszcze jej nie ma. Tam pojawią się opinie i wyjaśnienia."
-    },
-    {
-      "en": "The Senate's resolution on the chair.",
-      "pl": "Uchwała Senatu w sprawie przewodniczącej."
     },
     {
       "en": "The two deputy chairs and the four members from UOKiK, KNF, KRRiT and UKE.",

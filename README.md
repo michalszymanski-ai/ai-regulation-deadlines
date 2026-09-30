@@ -43,7 +43,7 @@ A dated log of what KRiBSI (Komisja Rozwoju i Bezpieczeństwa Sztucznej Intelige
 | 2026-08-11 | done | Main provisions in force | [Dz.U. 2026 poz. 1003, Art. 127](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
 | 2026-09-02 | done | Ministry expects the commission to start in November | [Digital HR, 2 Sep 2026](https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/) |
 | 2026-09-18 | done | Sejm appoints Pamela Krzypkowska as chair | [Rzeczpospolita, 18 Sep 2026](https://www.rp.pl/prawo-w-polsce/art45159621-sejm-powolal-pamele-krzypkowska-na-szefowa-komisji-rozwoju-i-bezpieczenstwa-ai) |
-| about a month after the Sejm vote (around 20 October) | pending | Senate decides on the chair | [Dz.U. 2026 poz. 1003, Art. 28](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
+| 2026-09-24 | done | Senate consents to Pamela Krzypkowska as chair | [CyberDefence24, 24 Sep 2026](https://cyberdefence24.pl/polityka-i-prawo/polska/senat-podjal-uchwale-ws-wyboru-szefa-organu-nadzoru-ai) |
 | 2026-10-28 | upcoming | Opinions, inspections, fines and sandboxes apply | [Dz.U. 2026 poz. 1003, Art. 127](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
 | November 2026 | expected | Full commission expected to start work | [Digital HR, 2 Sep 2026](https://digitalhr.pl/nowosci/kribsi-ma-rozpoczac-prace-w-listopadzie-narzedzia-dla-firm-ruszaja-28-pazdziernika/) |
 | 2027-03-31 | expected | First annual good-practice information due | [Dz.U. 2026 poz. 1003, Art. 6](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001003) |
